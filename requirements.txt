@@ -1,0 +1,2 @@
+django
+-e git://github.com/mirumee/pyfacebook.git#egg=pyfacebook
