@@ -150,3 +150,12 @@ LOGGING = {
         },
     }
 }
+
+SITE_URL = 'http://93.126.100.210:8000/iwish/'
+# FACEBOOK_AUTH_URL = 'https://www.facebook.com/dialog/oauth'
+
+
+try:
+    from settings_local import *
+except ImportError:
+    pass

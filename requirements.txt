@@ -1,2 +1,3 @@
 django
+decorator==3
 -e git://github.com/mirumee/pyfacebook.git#egg=pyfacebook
